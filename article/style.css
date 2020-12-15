@@ -1,0 +1,32 @@
+body{
+    background-color: black;
+}
+
+div{
+	position: absolute;
+    margin: 7vw;
+	
+	color:  rgb(89, 179, 5);
+
+    font-family: 'Anonymous Pro', monospace;
+	border: 1px solid rgb(89, 179, 5);
+	border-radius: 10px;
+	padding: 10px;
+}
+p{
+    margin: 20px;
+}
+
+button{
+  
+	background-color: black;
+	color: rgb(89, 179, 5);
+	margin-left: 40vw;
+	width: 100px;
+	height: 50px;
+	border: 1px solid rgb(89, 179, 5);
+	border-radius: 3px;
+	margin-top: 30px;
+	margin-bottom: 20px;
+	font-family: 'Anonymous Pro', monospace;
+}
